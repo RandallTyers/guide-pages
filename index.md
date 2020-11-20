@@ -1,3 +1,6 @@
+# Blargh
+This might be **real** content if this was anything other than a practice page.
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/RandallTyers/guide-pages/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
